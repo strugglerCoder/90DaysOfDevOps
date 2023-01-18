@@ -7,7 +7,7 @@ Task: What is the linux command to
 3. To check which commands you have run till now. [_Done_]
 4. To remove a directory/ Folder. [_Done_]
 5. To create a fruits.txt file and to view the content. [_Done_]
-6. Add content in devops.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.
+6. Add content in devops.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava. [_Done_]
 7. To Show only top three fruits from the file.
 8. To Show only bottom three fruits from the file.
 9. To create another file Colors.txt and to view the content.
