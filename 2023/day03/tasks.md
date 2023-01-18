@@ -2,10 +2,10 @@ Day 3 Task: Basic Linux Commands
 
 Task: What is the linux command to
 
-1. To view what's written in a file.
-2. To change the access permissions of files.
-3. To check which commands you have run till now.
-4. To remove a directory/ Folder.
+1. To view what's written in a file. [_Done_]
+2. To change the access permissions of files. [_Done_]
+3. To check which commands you have run till now. [_Done_]
+4. To remove a directory/ Folder. [_Done_]
 5. To create a fruits.txt file and to view the content.
 6. Add content in devops.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.
 7. To Show only top three fruits from the file.
